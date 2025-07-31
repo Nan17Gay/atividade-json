@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Sheldon Lee Cooper",
+        "idade": "45 anos",
+        "profissao": "Fisico teorico",
+        "conjuge": "Amy Farrah fowler"
+    },
+    {
+        "nome": "Amy Farrah Fowler",
+        "idade": "44 anos",
+        "profissao": "Neurocientista",
+        "conjuge": "Sheldon Lee Cooper"
+    },
+    {
+        "nome": "Leonard Hofstadter",
+        "idade": "45 anos",
+        "profissao": "Fisico experimental",
+        "conjuge": "Penny"
+    },
+    {
+        "nome": "Penny",
+        "idade": "39 anos",
+        "profissao": "Garçonete",
+        "conjuge": "Leonard Hofstadter"
+    },
+    {
+        "nome": "Howard Wolowitz",
+        "idade": "44 anos",
+        "profissao": "Engenheiro aeroespacial",
+        "conjuge": "Bernadete Rostenkowski"
+    },
+    {
+        "nome": "Bernadete Maryann Rostenkowski-Wolowitz",
+        "idade": "39 anos",
+        "profissao": "Microbiolista",
+        "conjuge": "Howard Wolowitz"
+    },
+    {
+        "nome": "Rajesh Ramayan Koothrappali",
+        "idade": "43 anos",
+        "profissao": "Astrofisico",
+        "conjuge": "Nenhum"
+    }
+]
